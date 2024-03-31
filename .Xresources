@@ -3,8 +3,9 @@ XTerm.termName: xterm-256color
 
 XTerm.vt100.locale: false
 XTerm.vt100.utf8: true
-XTerm*faceName: Monospace
+XTerm*faceName: Hack Nerd Font 
 XTerm*faceSize: 16
+
 
 XTerm*Background: black
 XTerm*Foreground: white
