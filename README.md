@@ -18,4 +18,4 @@ command is required to apply changes
 > ~/.config/nvim/init.vim
 ## zsh config ##
 > the path is
-> ~/.zprofile
+> ~/.zprofile and ~/.zshrc
